@@ -1,2 +1,2 @@
-# Python_basics_1
-My Day-1 project of learning Python. Learned about basic operations and print statements.
+# Python_Journey
+This repository contains my daywise progress of learning python and all the projects I did each day.
